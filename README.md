@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Darklord-200
-- 👀 I’m interested in c languages and trying to learn them 
+- 👀 I’m interested in java language
 - 💞️ I’m looking to collaborate on a minecraft plugin
-- 📫 How to reach me ...
+- 📫 How to reach me levigoossens17@gmail.com
 
 <!---
 Darklord-200/Darklord-200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
