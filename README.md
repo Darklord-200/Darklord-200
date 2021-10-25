@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Darklord-200
 - 👀 I’m interested in java language
-- 💞️ I’m looking to collaborate on a minecraft plugin
+- 💞️ I’m looking to collaborate on a minecraft plugin and learn some software development
 - 📫 How to reach me levigoossens17@gmail.com
 
 <!---
